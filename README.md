@@ -1,6 +1,4 @@
 # Dendroid
-Android Trojan
+Android Trojan OpenSource
 
-This repository doesn't contain my code. I have uploaded it to GitHub for those want to analyse the code.
-
-Source: http://www.malwaretech.com/p/sources.html
+Este repositorio no contiene código desarrollado por mí. El mismo está desarrollado por un tercero, y la finalidad de su publicación es leerlo, modificarlo y dedicar su uso al aprendizaje.
